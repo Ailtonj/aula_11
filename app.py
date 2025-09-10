@@ -1,2 +1,7 @@
 def somar(a, b):
-    return a+b
+    return a + b
+
+
+def subtrair(a, b):
+    return a + b
+# isso soma, não subtrai
