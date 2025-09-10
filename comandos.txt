@@ -1,0 +1,6 @@
+desfazendo com git revert
+git revert HEAD 
+
+desfazendo com git reset --hard
+git reset --hard HEAD~1
+(apaga o ultimo commit)
